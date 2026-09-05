@@ -1,8 +1,8 @@
-# Expense Tracker
+# Expense Tracker 💰
 
 A simple command-line Expense Tracker built with Python. This project allows users to manage their expenses through an interactive menu.
 
-# Features
+# Features ✨
 Add new expenses
 View all recorded expenses
 Calculate total expenses
@@ -11,7 +11,7 @@ Delete expenses
 Validate user input
 Handle invalid numerical input using exception handling
 Interactive menu-driven interface
-# Technologies Used
+# Technologies Used 🧮
 Python 3
 Lists
 Functions
@@ -20,7 +20,7 @@ Conditional Statements
 try/except
 enumerate()
 User Input Handling
-# How It Works
+# How It Works 🧠
 
 The program provides a menu with six options:
 
@@ -30,12 +30,12 @@ Calculate Total — Calculate the total amount of all expenses.
 Exit — Close the application.
 Delete Expense — Remove an expense by its number.
 Edit Expense — Update an existing expense.
-# Getting Started
+# Getting Started 🔌
 Prerequisites
 
 Make sure Python 3 is installed on your computer.
 
-# Run the Project
+# Run the Project 🦾
 
 Clone the repository:
 
@@ -51,7 +51,7 @@ python expense_tracker.py
 
 Example :
 ==============
-Expense Tracker
+Expense Tracker 
 ==============
 ==============
 1. Add Expense
@@ -62,7 +62,7 @@ Expense Tracker
 6. Edit Expense
 
 Enter your choice (1,2,3,4,5,6) =
-# What I Learned
+# What I Learned 🧠
 
 This project helped me practice fundamental Python concepts, including:
 
@@ -73,7 +73,7 @@ Handling user input
 Exception handling with try/except
 Building a menu-driven application
 Organizing a program using a main() function
-# Future Improvements
+# Future Improvements 👀
 
 Possible improvements for future versions include:
 
@@ -82,7 +82,7 @@ Adding expense categories
 Adding dates to expenses
 Searching and filtering expenses
 Improving the user interface
-# Author
+# Author 😊
 
 # Eman Choudhary
 
