@@ -48,11 +48,12 @@ cd expense-tracker-python
 Run the program:
 
 python expense_tracker.py
-# Example
+
+Example :
 ==============
 Expense Tracker
 ==============
-
+==============
 1. Add Expense
 2. View Expense
 3. Calculate Total
