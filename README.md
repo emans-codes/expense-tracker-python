@@ -60,7 +60,6 @@ Expense Tracker
 4. Exit
 5. Delete Expense
 6. Edit Expense
-==============
 
 Enter your choice (1,2,3,4,5,6) =
 # What I Learned
